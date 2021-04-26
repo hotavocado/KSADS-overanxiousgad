@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-overanxiousgad/master/activities/",
+        "overanxiousgad": {
+            "@id": "activity_path:overanxiousgad/overanxiousgad_schema",
+            "@type": "@id"
+        }
+    }
+}

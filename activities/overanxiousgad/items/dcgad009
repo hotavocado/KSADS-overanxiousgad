@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcgad009",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What other kinds of things did you worry about during (that/these times)?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

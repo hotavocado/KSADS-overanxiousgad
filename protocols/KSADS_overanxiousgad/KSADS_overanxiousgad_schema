@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/KSADS-overanxiousgad/master/protocols/KSADS_overanxiousgad/KSADS_overanxiousgad_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "KSADS_overanxiousgad_schema",
+    "skos:prefLabel": "Overanxious/GAD",
+    "schema:description": "Overanxious/GAD section for KSADS interview",
+    "landingPage": "https://raw.githubusercontent.com/hotavocado/KSADS-overanxiousgad/master/protocols/KSADS_overanxiousgad/README.md",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "overanxiousgad",
+                "isAbout": "overanxiousgad",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "overanxiousgad"
+        ],
+        "shuffle": false
+    }
+}
